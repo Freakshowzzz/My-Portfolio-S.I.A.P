@@ -1,0 +1,14 @@
+.light-button {
+    padding: 14px 32px;
+    border: none;
+    border-radius: 6px;
+    background: #007aff;
+    color: #ffffff;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background 0.2s, color 0.2s;
+  }
+  
+  .light-button:hover {
+    background: #0051e9; 
+  }
